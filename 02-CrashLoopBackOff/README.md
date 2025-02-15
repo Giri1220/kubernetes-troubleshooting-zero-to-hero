@@ -29,3 +29,4 @@ Containers might be configured to start with specific command-line arguments. If
 Bugs in the application code, such as unhandled exceptions or segmentation faults, can cause the application to crash. For instance, if the application tries to access a null pointer or fails to catch and handle an exception correctly, it might terminate unexpectedly. Kubernetes, detecting the crash, will restart the container, but if the bug is triggered each time the application runs, this leads to a repetitive crash loop.
 ![image](https://github.com/user-attachments/assets/06436498-e6c4-4c0d-a695-cb3e003599d6)
 ![image](https://github.com/user-attachments/assets/02b369d7-c055-430c-9115-45fbf3a3e9b5)
+![image](https://github.com/user-attachments/assets/76dcece4-5891-401f-9140-83f2d9688f85)
