@@ -24,6 +24,7 @@ Liveness probes in Kubernetes are used to check the health of a container. If a 
 If the memory limits set for a container are too low, the application might exceed this limit, especially under load, leading to the container being killed by Kubernetes. This can happen repeatedly if the workload does not decrease, causing a cycle of crashing and restarting. Kubernetes uses these limits to ensure that containers do not consume all available resources on a node, which can affect other containers.
 ![image](https://github.com/user-attachments/assets/fa305ab7-66d6-4dd2-860a-1678c386ce79)
 ![image](https://github.com/user-attachments/assets/88201462-ea6b-49ca-be87-a34c36dff094)
+![image](https://github.com/user-attachments/assets/b27b07b8-09d0-4edb-9d11-e2a55e3da3f7)
 
 ### Wrong Command Line Arguments
 
