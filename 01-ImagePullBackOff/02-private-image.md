@@ -16,4 +16,4 @@ kubectl create secret docker-registry  \
   --docker-username=AWS \
   --docker-password=$(aws ecr get-login-password) \
   --namespace=default
-```
+```![image](https://github.com/user-attachments/assets/5b7c3db3-433a-4906-b372-3c5c4a1dde72)
