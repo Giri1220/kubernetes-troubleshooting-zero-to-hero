@@ -22,6 +22,7 @@ spec:
 
 Node Affinity is a more expressive way to specify rules about the placement of pods relative to nodes' labels. It allows you to specify rules that apply only if certain conditions are met.
 Usage: Define nodeAffinity rules in the pod's YAML definition, specifying required and preferred node selectors.
+![image](https://github.com/user-attachments/assets/dbe22010-e35f-4bf0-b99c-0b34c87c9365)
 
 ```
 spec:
