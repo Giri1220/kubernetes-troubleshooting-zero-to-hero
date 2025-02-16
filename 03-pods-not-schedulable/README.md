@@ -4,6 +4,8 @@ In Kubernetes, the scheduler is responsible for assigning pods to nodes in the c
 
 Node Selector is a simple way to constrain pods to nodes with specific labels. It allows you to specify a set of key-value pairs that must match the node's labels for a pod to be scheduled on that node.
 Usage: Include a nodeSelector field in the pod's YAML definition to specify the required labels.
+We can add labels to the node by using the command 
+kubectl edit node node_name
 
 ```
 spec:
