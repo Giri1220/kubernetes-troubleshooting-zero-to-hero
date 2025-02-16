@@ -48,6 +48,7 @@ Usage: Use kubectl taint command to apply taints to nodes. Include tolerations f
 ```
 kubectl taint nodes node1 disktype=ssd:NoSchedule
 ```
+![image](https://github.com/user-attachments/assets/41e9e2f3-1d39-400a-8611-9a5df4e25c72)
 ![image](https://github.com/user-attachments/assets/154acc01-d123-4e21-b220-c44cd1cd044f)
 ![image](https://github.com/user-attachments/assets/675d0b24-35fc-4e11-9719-270cb91cc196)
 
