@@ -69,6 +69,9 @@ spec:
 Tolerations are applied to pods and allow them to schedule onto nodes with matching taints. They override the effect of taints.
 
 Usage: Include tolerations field in the pod's YAML definition to specify which taints the pod tolerates.
+![image](https://github.com/user-attachments/assets/cad41a03-cf16-49ea-8801-9c5bafa78b3d)
+![image](https://github.com/user-attachments/assets/c6c5d8d5-9d68-440c-822a-b60884d816bf)
+![image](https://github.com/user-attachments/assets/b027a7cb-b97f-465c-a0fc-c6779d12a3c0)
 
 ```
 spec:
