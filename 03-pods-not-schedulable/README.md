@@ -7,6 +7,8 @@ Usage: Include a nodeSelector field in the pod's YAML definition to specify the 
 We can add labels to the node by using the command.
 ""kubectl edit node node_name""
 we get below error if label doesn't match![image](https://github.com/user-attachments/assets/b30a181e-c6b6-4355-879b-2965df279439)
+![image](https://github.com/user-attachments/assets/12bdbefb-d235-4df7-b759-547b7e6328d8)
+
 
 
 ```
