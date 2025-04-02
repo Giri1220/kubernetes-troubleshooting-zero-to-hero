@@ -37,3 +37,12 @@ In Kubernetes, the scheduler is responsible for assigning pods to nodes in the c
 2. Node Affinity
 3. Taints
 4. Tolerations
+<img width="529" alt="image" src="https://github.com/user-attachments/assets/8453004c-4337-42a8-a0cf-5a54c75e2e5c" />
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/4377afdd-cb5c-4632-a7de-9f35ca01c553" />
+<img width="524" alt="image" src="https://github.com/user-attachments/assets/47aa4ba6-7f49-4ddc-88d5-0ace856cf33b" />
+<img width="519" alt="image" src="https://github.com/user-attachments/assets/9171a256-0a3c-4fc4-88d3-f172c72be433" />
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/c5aca69e-d6fa-40a8-aa1b-5143e578f593" />
+
+
+
+
